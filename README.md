@@ -19,7 +19,8 @@
 &emsp; [SmartDec](https://smartdec.com/) · *Jan 2019 - Sep 2022*
 
 - **Cryptocurrency exchange**\
-I wrote automated tests in Python using RabbitMQ for the backend of a cryptocurrency exchange and validated the technical specification. I made the whole project by myself.
+I wrote automated tests in Python using RabbitMQ for the backend of a cryptocurrency exchange. I did the whole project by myself.\
+Also, I validated technical specifications.
   
 🛠 &ensp; ***Python · pytest · RabbitMQ · Git · Linux · QA · Test Automation***
 
@@ -94,7 +95,7 @@ Feel free to contact me:
   [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?color=228B22&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=79168454286)
   [![Telegram](https://img.shields.io/badge/-Telegram-blue?color=1E90FF&logo=telegram&logoColor=white)](https://t.me/iskoroleva)
   [![Email](https://img.shields.io/badge/-Email-red?color=FFA500&logo=gmail&logoColor=white)](mailto:iushulgin@gmail.com)
-  <!-- [![HeadHunter](https://img.shields.io/badge/-HeadHunter-ea4335)](https://t.me/iskoroleva) -->
+  [![HeadHunter](https://img.shields.io/badge/-HeadHunter-ea4335)]([https://t.me/iskoroleva](https://hh.ru/applicant/resumes/view?resume=ae2ef53cff0c30cc720039ed1f376637726c6b))
 <!-- <div>
   <img src="https://komarev.com/ghpvc/?username=IrKor&style=flat-square&color=8B008B" alt=""/>
 </div> -->
