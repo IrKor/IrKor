@@ -7,7 +7,7 @@
 &emsp; *Feb 2023 - Present*
 
 - I deepened my knowledge of Python, practiced solving algorithmic problems, and studied asynchronous programming, application architecture, and the nuances of working with the database. 
-- I also practiced creating projects on Django and FastApi.I deepened my knowledge of Python, practiced solving algorithmic problems, and studied asynchronous programming, application architecture, and the nuances of working with the database. I also practiced creating projects on Django and FastApi.
+- I also practiced creating projects on [Django](https://github.com/IrKor/django) and FastApi.I deepened my knowledge of Python, practiced solving algorithmic problems, and studied asynchronous programming, application architecture, and the nuances of working with the database. I also practiced creating projects on Django and FastApi.
 
 🛠 &ensp; ***Python · Django***
   
