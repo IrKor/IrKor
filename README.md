@@ -2,6 +2,8 @@
 💻 I am a Python backend developer with 7 years of experience as a QA, and I am looking for a job. \
 🔭 I’m currently learning Django. FastApi will be next.
 
+🛠   ***Python · Django · RabbitMQ · pytest · Git · SQL · Linux***
+
 ## 👩‍💻 Experience
 ***Career Transition to Python developer***\
 &emsp; *Feb 2023 - Present*
