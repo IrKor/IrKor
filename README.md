@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-💻 I am a Python developer with 7 years of experience as a QA, and I am looking for a job. \
+💻 I am a Python AQA Engineer with 7 years of experience. \
 🔭 I’m currently learning Django. FastApi will be next.
 
 🛠   ***Python · Django · RabbitMQ · pytest · Git · SQL · Linux***
